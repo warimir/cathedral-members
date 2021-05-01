@@ -13,6 +13,7 @@ ASEMO85
 azumarenn
 Baltron
 BATTA
+BennyR
 BWV825Prelude
 Covert
 CRARIS
@@ -28,7 +29,6 @@ hennessy
 hikidasi
 hinoki
 Inaffectueux
-Jackalope
 jagariko03
 JinKanji
 jun01
@@ -36,9 +36,9 @@ KAMUI
 Kartinas
 katsuma
 kazukinngu
+KEIB
 kirikarasu
 kiyaman
-KKKKKK
 komaking
 konipin
 Kotatsuya
@@ -55,11 +55,14 @@ Lily_white
 LucasAbyss
 LVBUQIAO
 madaka
+madoc
 mamoon08
 Mokeke_Aro
 Mokeke_Neru
 mokeyuru
+MonkeyDance
 Mononofu
+mukai5331
 multik
 NETO
 Neuroi
@@ -102,7 +105,6 @@ yozakura
 yukana
 zakki
 あいいい
-あきたけじょう
 アキマ
 あみちゃん
 いんてるはいってる
@@ -128,6 +130,8 @@ zakki
 そふぃ
 タイガーマスク
 てくてく
+なめらかプリン
+にゃる
 ヌエですあっと
 ノムノム
 ノンケキラー
@@ -138,8 +142,10 @@ zakki
 ベサーレス
 ホクティ
 ポメ
+まめふ
 まめまめ
 もろこし0700
+リダラ
 ルチル・アフナール
 園樹氷涙
 焔姫
@@ -151,16 +157,15 @@ zakki
 鬼神のお松
 久遠
 空即
+古代
 黒瘴
 骨片
 桜舞
-死神侍
 松尾　かずと
 森りん
 針塚杏
 青波
 赤兎馬
-絶影
 村上星太
 大神惟龍
 地上絵
@@ -169,7 +174,6 @@ zakki
 藤吉郎
 洞窟のイドラ
 梅太郎
-白米△
 部長からの刺客
 未来x宝鐘海賊団
 民明
