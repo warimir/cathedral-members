@@ -16,4 +16,5 @@ cathedral-members
 |
 \---leaved_list
         leaved_members.txt      脱退メンバー一覧
+        suspended_members.txt   休止メンバー一覧
 ```
