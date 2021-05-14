@@ -12,7 +12,6 @@ ASEMO85
 azumarenn
 Baltron
 Banchi
-BATTA
 BennyR
 BWV825Prelude
 Covert
@@ -23,7 +22,6 @@ Dozan
 Feldinand
 Gidora
 gu1a
-hennessy
 hikidasi
 hinoki
 Inaffectueux
@@ -37,7 +35,6 @@ katsuma
 kazukinngu
 KEIB
 kirikarasu
-kiyaman
 komaking
 konipin
 Kotatsuya
@@ -116,6 +113,7 @@ zakki
 かえる
 カツマ
 キダー
+きやまん
 クーロン
 ぐらちゃ
 グリム童話
@@ -141,6 +139,7 @@ zakki
 フィリス
 ふらっぷ
 ベサーレス
+ヘネシー
 ぼきお
 ホクティ
 まめふ
@@ -172,6 +171,7 @@ zakki
 村上星太
 大神惟龍
 地上絵
+虫皇
 島津義弘
 糖尿病
 藤吉郎
