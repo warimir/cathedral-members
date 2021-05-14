@@ -10,6 +10,9 @@ Aqa
 arya
 ASEMO85
 azumarenn
+Baltron
+Banchi
+BATTA
 BennyR
 BWV825Prelude
 Covert
@@ -17,7 +20,6 @@ CRARIS
 dassy_spa0
 DOMDOM会
 Dozan
-Eisen
 Feldinand
 Gidora
 gu1a
@@ -156,8 +158,9 @@ zakki
 丸丸
 鬼神のお松
 空即
-光月・D・田有
 古代
+光月・D・田有
+光月・Ｄ・田有
 黒瘴
 骨片
 桜舞
@@ -166,7 +169,6 @@ zakki
 針塚杏
 青波
 赤兎馬
-虫皇
 村上星太
 大神惟龍
 地上絵
@@ -178,5 +180,6 @@ zakki
 部長からの刺客
 未来x宝鐘海賊団
 民明
+立直七対子裏々赤
 流離
 連翹
