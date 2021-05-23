@@ -15,6 +15,7 @@ Banchi
 BennyR
 BWV825Prelude
 Covert
+cosmos
 CRARIS
 dassy_spa0
 DOMDOM会
@@ -118,7 +119,6 @@ zakki
 ぐらちゃ
 グリム童話
 げっくん
-こすもす
 コロコロ
 こんぼら
 さい
