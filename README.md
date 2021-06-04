@@ -10,8 +10,9 @@ cathedral-members
 |   |   current_members.txt     在籍メンバー一覧
 |   |
 |   +---clans
-|   |       cathedral.txt       カテドラル所属メンバー
-|   |       yatagarasu.txt      八咫鴉所属メンバー
+|   |       cathedral.txt           カテドラル所属メンバー
+|   |       reserved_cathedral.txt  カテドラル所属予約メンバー
+|   |       yatagarasu.txt          八咫鴉所属メンバー
 |   |
 |   \---parts
 |           1-not_discord_users.txt                   Discord未使用メンバー
