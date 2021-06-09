@@ -11,7 +11,6 @@ cathedral-members
 |   |
 |   +---clans
 |   |       cathedral.txt           カテドラル所属メンバー
-|   |       reserved_cathedral.txt  カテドラル所属予約メンバー
 |   |       temporary_cathedral.txt カテドラル所属希望メンバー
 |   |       yatagarasu.txt          八咫鴉所属メンバー
 |   |
