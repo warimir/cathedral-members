@@ -52,7 +52,6 @@ Neuroi
 ossann
 Passo
 toratora
-unit_see
 Yapapadou
 あいいい
 あきたけじょう
@@ -72,4 +71,4 @@ Yapapadou
 古代
 骨片
 糖尿病
-武田信玄
+ACEr
