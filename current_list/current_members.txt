@@ -1,8 +1,6 @@
 _K
 【★】
-ACEr
 Alduin
-ALLOFME
 apapmax
 Aqa
 azumarenn
@@ -13,7 +11,6 @@ dassy_spa0
 DOMDOM会
 Dozan
 Feldinand
-gu1a
 hikidasi
 Jackalope
 jagariko03
@@ -26,16 +23,11 @@ katsuma
 kazukinngu
 KEIB
 KEIC
-konipin
-kou0228
 kozolba
 kurigori10
 KuSunokky
 Kyabetu
-kyaro
 Lemo
-LVBUQIAO
-madaka
 madoc
 Mokeke_Aro
 Mokeke_Neru
@@ -50,20 +42,13 @@ Nuk1Nuk1
 OTLOTLOTL
 Pingueen
 Rabbitfoot
-RainF
-REO38
 reyz
 ROFL
 Rucika
-ruiken
 ShabbyD
 siguma230804
 siro
-soraninrotti
-Soun
 syumai
-taiyakiboy
-Teneren
 TheWorld
 tom
 Toord
@@ -71,10 +56,8 @@ usutar
 Warimir
 Yamandrew
 yapapado
-yozakura
 yukana
 zakki
-アキマ
 あみちゃん
 エイル
 エグザム
@@ -94,15 +77,12 @@ zakki
 タイガーマスク
 ドリチン
 にゃる
-ヌエですあっと
 ノムノム
 ひの
 びれゾンビ
 フィリス
-ふらっぷ
 ベサーレス
 ヘネシー
-ぼきお
 ホクティ
 まめまめ
 リダラ
@@ -111,14 +91,12 @@ zakki
 焔姫
 黄桜
 我武神よしフォーなり～～
-学園ハンサム美剣
 丸丸
-鬼神のお松
 空即
 光月・D・田有
 黒瘴
 桜舞
-松尾　かずと
+松尾 かずと
 森りん
 針塚杏
 青波
@@ -135,4 +113,3 @@ zakki
 本物の山田孝之
 未来x宝鐘海賊団
 民明
-流離
