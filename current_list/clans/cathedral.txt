@@ -19,7 +19,6 @@ K4DoMon
 Kartinas
 katsuma
 kazukinngu
-KEIB
 kozolba
 KuSunokky
 Kyabetu
@@ -33,7 +32,6 @@ Mononofu
 multik
 NETO
 NiNi
-Nuk1Nuk1
 OTLOTLOTL
 Pingueen
 Rabbitfoot
@@ -56,13 +54,11 @@ zakki
 おすし
 キダー
 グリム童話
-こすもす
 コロコロ
 さい
 さまりん
 ジョーズ
 ジョニ一
-しろくま
 そふぃ
 タイガーマスク
 ドリチン
@@ -71,7 +67,6 @@ zakki
 ひの
 びれゾンビ
 フィリス
-ヘネシー
 ホクティ
 まめまめ
 リダラ
