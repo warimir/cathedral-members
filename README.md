@@ -8,6 +8,7 @@ cathedral-members
 |
 +---current_list
 |   |   current_members.txt     在籍メンバー一覧
+|   |   higher_members.txt      高級メンバー一覧
 |   |
 |   +---clans
 |   |       cathedral.txt           カテドラル所属メンバー
