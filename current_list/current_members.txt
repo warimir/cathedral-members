@@ -21,7 +21,6 @@ K4DoMon
 Kartinas
 katsuma
 kazukinngu
-KEIB
 KEIC
 kozolba
 kurigori10
@@ -38,13 +37,11 @@ multik
 MUURA
 NETO
 NiNi
-Nuk1Nuk1
 OTLOTLOTL
 Pingueen
 Rabbitfoot
 reyz
 ROFL
-Rucika
 ShabbyD
 siguma230804
 siro
@@ -66,13 +63,11 @@ zakki
 キダー
 クーロン
 グリム童話
-こすもす
 コロコロ
 さい
 さまりん
 ジョーズ
 ジョニ一
-しろくま
 そふぃ
 タイガーマスク
 ドリチン
@@ -82,7 +77,6 @@ zakki
 びれゾンビ
 フィリス
 ベサーレス
-ヘネシー
 ホクティ
 まめまめ
 リダラ
